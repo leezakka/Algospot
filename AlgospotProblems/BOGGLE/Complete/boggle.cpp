@@ -9,7 +9,7 @@ int dy[8] = { 1,0,-1,1,-1,1,0,-1 };
 
 int main()
 {
-	string str = "GIAZAPX";
+	string str = "KARA";
 
 	for(int i=0; i<5; i++)
 	{
